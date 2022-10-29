@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/movieland-app/static/css/main.56445cbf.css",
-    "main.js": "/movieland-app/static/js/main.5e8ba64a.js",
+    "main.js": "/movieland-app/static/js/main.4cd3f84f.js",
     "index.html": "/movieland-app/index.html",
     "static/media/search.svg": "/movieland-app/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
     "main.56445cbf.css.map": "/movieland-app/static/css/main.56445cbf.css.map",
-    "main.5e8ba64a.js.map": "/movieland-app/static/js/main.5e8ba64a.js.map"
+    "main.4cd3f84f.js.map": "/movieland-app/static/js/main.4cd3f84f.js.map"
   },
   "entrypoints": [
     "static/css/main.56445cbf.css",
-    "static/js/main.5e8ba64a.js"
+    "static/js/main.4cd3f84f.js"
   ]
 }
